@@ -2,6 +2,8 @@
 
 《高级Bash脚本编程指南》Revision 10中文版
 
+> 本开源书 forked from [高级Bash脚本编程指南](https://github.com/LinuxStory/Advanced-Bash-Scripting-Guide-in-Chinese)，作者为 [LinuxStory](https://github.com/LinuxStory)，欢迎大家 star 原作者的 [repo](https://github.com/LinuxStory/Advanced-Bash-Scripting-Guide-in-Chinese)，以便获得最新更新，谢谢！
+
 ## 联系/加入我们
 - 邮箱：absguide#linuxstory.org(将#替换为@)
 - QQ群：535442421
